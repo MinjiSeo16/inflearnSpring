@@ -4,3 +4,4 @@
 #### 💡 학습 내용 기록
 - [인터넷 네트워크 + URI와 웹 브라우저 요청 흐름 + HTTP 기본](https://velog.io/@smj_716/HTTP-%EA%B8%B0%EB%B3%B8-1)
 - [HTTP 메서드 + 상태코드](https://velog.io/@smj_716/HTTP-%EA%B8%B0%EB%B3%B8-2)
+- [HTTP 일반 헤더 + 캐시와 조건부 요청](https://velog.io/@smj_716/HTTP-%EA%B8%B0%EB%B3%B8-3)
