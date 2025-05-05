@@ -7,3 +7,4 @@
 - [스프링 컨테이너와 스프링 빈](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-3)
 - [싱글톤 컨테이너](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-4)
 - [컴포넌트 스캔](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-5)
+- [의존관계 자동 주입](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-6)
