@@ -8,3 +8,4 @@
 - [싱글톤 컨테이너](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-4)
 - [컴포넌트 스캔](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-5)
 - [의존관계 자동 주입](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-6)
+- [빈 생명주기 콜백](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-7)
