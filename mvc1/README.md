@@ -3,3 +3,4 @@
 
 ### 💡 학습 내용 기록
 - [웹 애플리케이션 이해](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-1)
+- [서블릿](https://velog.io/@smj_716/%EC%8A%A4%ED%94%84%EB%A7%81-MVC-1%ED%8E%B8-2)
